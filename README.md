@@ -1,5 +1,7 @@
 # MindFlow - Mental Health & Wellness Application
 
+created using @bolt.new
+
 A comprehensive mental health and wellness application built with React, TypeScript, and Tailwind CSS. MindFlow helps users track habits, keep personal notes, listen to curated wellness music, and monitor their mental health journey through insights and achievements.
 
 ## 🌟 Features
